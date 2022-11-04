@@ -1,4 +1,4 @@
-package br.cesed.p3.listas.encadeadas;
+package br.com.listas.encadeadas;
 
 public class MeuDequeEncadeada extends EstruturaEncadeadaGenerica {
 	
